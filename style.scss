@@ -213,13 +213,13 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 3px; // @TODO: Vertically middle align
   font-family: $georgia;
   font-size: 18px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 2px;
     display: block;
     font-size: 16px;
   }
