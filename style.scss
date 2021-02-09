@@ -33,7 +33,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $georgia;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: 900;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -46,22 +46,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 18px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 16px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 14px;
   color: $gray;
 }
 
@@ -197,7 +197,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $georgia;
-  font-weight: bold;
+  font-weight: 900;
   font-size: 24px;
   letter-spacing: 0.1px;
 }
@@ -214,7 +214,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 3px; // @TODO: Vertically middle align
+  margin-top: 10px; // @TODO: Vertically middle align
   font-family: $georgia;
   font-size: 18px; 
 
