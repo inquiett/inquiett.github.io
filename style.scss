@@ -204,10 +204,10 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 0px;
+  font-size: 16px;
 
   @include mobile {
-    margin: 0px 0;
+    margin: 13px 0;
   }
 }
 
