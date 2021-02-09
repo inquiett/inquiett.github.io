@@ -197,7 +197,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $georgia;
-  font-weight: 700;
+  font-weight: bold;
   font-size: 24px;
   letter-spacing: 0.1px;
 }
@@ -214,7 +214,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 0px; // @TODO: Vertically middle align
+  margin-top: 3px; // @TODO: Vertically middle align
   font-family: $georgia;
   font-size: 18px; 
 
